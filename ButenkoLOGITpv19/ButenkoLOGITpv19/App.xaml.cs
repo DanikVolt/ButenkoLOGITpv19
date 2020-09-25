@@ -10,7 +10,7 @@ namespace ButenkoLOGITpv19
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Page1();
         }
 
         protected override void OnStart()
